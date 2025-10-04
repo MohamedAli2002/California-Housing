@@ -1,6 +1,6 @@
 # Predicting California housing prices
 
-This is a Machine Learning based project to predict housing prices in Califorina based on some features which are ["longitude", "latitude", "housing_median_age", "total_rooms", "total_bedrooms", "population", "households", "median_income"]. By applying a regression Models like ( Random Forest and XGB ). We achieved more than 0.80 in R^2 test.
+This is a Machine Learning based project to predict housing prices in Califorina based on some features which are ["longitude", "latitude", "housing_median_age", "total_rooms", "total_bedrooms", "population", "households", "median_income"]. By applying regression Models like ( Random Forest and XGB ). We achieved more than 0.80 in R^2 test.
 
 
 ## Requirements
